@@ -6,7 +6,7 @@ website: http://xrp-airdrop/
 
 contract_address: 0x9f99573cf3356df3649cd25d17af974fd5abb98f
 
-comunity: https://github.com/applec950081/applec
+comunity: https://applec950081.github.io/AppleCoin/
 
 status: normal
 
