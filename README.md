@@ -2,7 +2,7 @@
 
 The following is AppleC profile:
 
-website: http://xrp-airdrop/
+website: http://applec.co/
 
 contract_address: 0x9f99573cf3356df3649cd25d17af974fd5abb98f
 
