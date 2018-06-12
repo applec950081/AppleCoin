@@ -2,7 +2,7 @@
 
 The following is AppleC profile:
 
-website: http://applec.co/
+website: http://apcoin.co/
 
 contract_address: 0x9f99573cf3356df3649cd25d17af974fd5abb98f
 
